@@ -5,12 +5,12 @@ import os
 # =============================================
 
 # Токен бота от @BotFather
-BOT_TOKEN = os.getenv("BOT_TOKEN", "YOUR_BOT_TOKEN_HERE")
+BOT_TOKEN = os.getenv("8304285302:AAERrfJltwn_Rq-7VWdp--F6Rw-gm3sHvmM")
 
 # ID администраторов (можно добавить несколько)
 # Узнать свой ID можно у бота @userinfobot
 ADMIN_IDS = [
-    123456789,  # Замените на ваш Telegram ID
+    8392734804,  # Замените на ваш Telegram ID
     # 987654321,  # Можно добавить ещё администраторов
 ]
 
